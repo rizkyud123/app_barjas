@@ -1,4 +1,4 @@
-import mysql from 'promise';
+import mysql from 'mysql2/promise';
 
 // Konfigurasi koneksi database MySQL
 export const dbConfig = {
